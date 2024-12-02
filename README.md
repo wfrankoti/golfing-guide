@@ -1,1 +1,2 @@
-# golfing-guide
+# GoFr framework
+Guide framework GoFr API example
